@@ -4,6 +4,8 @@ nginx setups for different sites
 
 # Ministry of Colour dot Net
 
+http://ministryofcolour.net
+
 ```
   __  __ _       _     _                     __  ____      _                             _   
  |  \/  (_)_ __ (_)___| |_ _ __ _   _  ___  / _|/ ___|___ | | ___  _   _ _ __ _ __   ___| |_ 
